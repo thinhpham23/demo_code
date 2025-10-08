@@ -1,0 +1,23 @@
+{
+  "name": "demo_code_git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinhpham23/demo_code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thinhpham23/demo_code/issues"
+  },
+  "homepage": "https://github.com/thinhpham23/demo_code#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
